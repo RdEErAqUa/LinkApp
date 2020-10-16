@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.30523.141
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkApp", "LinkApp\LinkApp.csproj", "{B981CA64-EA59-4028-B1C5-76F7FD506521}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkAppTest", "LinkAppTest\LinkAppTest.csproj", "{F1E2EFBF-E5EA-49D1-B7E0-01901E7E1C4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkAppDesigned", "LinkAppDesigned\LinkAppDesigned.csproj", "{268860C2-29DD-42AC-99D5-AA73B3F7EDAD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{B981CA64-EA59-4028-B1C5-76F7FD506521}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B981CA64-EA59-4028-B1C5-76F7FD506521}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B981CA64-EA59-4028-B1C5-76F7FD506521}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1E2EFBF-E5EA-49D1-B7E0-01901E7E1C4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1E2EFBF-E5EA-49D1-B7E0-01901E7E1C4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1E2EFBF-E5EA-49D1-B7E0-01901E7E1C4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1E2EFBF-E5EA-49D1-B7E0-01901E7E1C4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{268860C2-29DD-42AC-99D5-AA73B3F7EDAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{268860C2-29DD-42AC-99D5-AA73B3F7EDAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{268860C2-29DD-42AC-99D5-AA73B3F7EDAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{268860C2-29DD-42AC-99D5-AA73B3F7EDAD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
