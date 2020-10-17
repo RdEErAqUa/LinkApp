@@ -7,7 +7,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkApp", "LinkApp\LinkApp.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkAppTest", "LinkAppTest\LinkAppTest.csproj", "{F1E2EFBF-E5EA-49D1-B7E0-01901E7E1C4F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkAppDesigned", "LinkAppDesigned\LinkAppDesigned.csproj", "{268860C2-29DD-42AC-99D5-AA73B3F7EDAD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinkAppDesigned", "LinkAppDesigned\LinkAppDesigned.csproj", "{268860C2-29DD-42AC-99D5-AA73B3F7EDAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkAppWpfTest", "LinkAppWpfTest\LinkAppWpfTest.csproj", "{DF717725-A2EC-4BBF-820C-802305114540}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{268860C2-29DD-42AC-99D5-AA73B3F7EDAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{268860C2-29DD-42AC-99D5-AA73B3F7EDAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{268860C2-29DD-42AC-99D5-AA73B3F7EDAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF717725-A2EC-4BBF-820C-802305114540}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF717725-A2EC-4BBF-820C-802305114540}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF717725-A2EC-4BBF-820C-802305114540}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF717725-A2EC-4BBF-820C-802305114540}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
